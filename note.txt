@@ -1,0 +1,7 @@
+git config --global user.name "maram-2468"
+git config --global user.email "438202572@student.ksu.edu.sa" 
+
+
+cd Desktop
+md hello-world 
+cd hello-world
